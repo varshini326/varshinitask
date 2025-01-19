@@ -17,3 +17,7 @@
    In PowerBI I had combined and load the data in which that data is cleaned .
    I had created the dashboard in which for every order we can see from where to where the product is shipped with total amount,quantity and sum of amount for order represented by orderId.
    
+   
+   OUTPUT OF THE TASK :
+   
+   ![Image](https://github.com/user-attachments/assets/f9811edb-fd57-49f0-a2ec-8881c8a8ead7)
